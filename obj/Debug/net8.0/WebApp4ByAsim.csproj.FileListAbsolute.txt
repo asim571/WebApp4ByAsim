@@ -250,3 +250,4 @@ D:\Lab 2 NCC\WebApp4ByAsim\WebApp4ByAsim\obj\Debug\net8.0\refint\WebApp4ByAsim.d
 D:\Lab 2 NCC\WebApp4ByAsim\WebApp4ByAsim\obj\Debug\net8.0\WebApp4ByAsim.pdb
 D:\Lab 2 NCC\WebApp4ByAsim\WebApp4ByAsim\obj\Debug\net8.0\WebApp4ByAsim.genruntimeconfig.cache
 D:\Lab 2 NCC\WebApp4ByAsim\WebApp4ByAsim\obj\Debug\net8.0\ref\WebApp4ByAsim.dll
+D:\Lab 2 NCC\WebApp4ByAsim\WebApp4ByAsim\obj\Debug\net8.0\WebApp4ByAsim.sourcelink.json

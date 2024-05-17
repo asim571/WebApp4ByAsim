@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using WebApp4ByAsim.Data;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<WebApp4ByAsimContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("WebApp4ByAsimContext") ?? throw new InvalidOperationException("Connection string 'WebApp4ByAsimContext' not found.")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("dbconn") ?? throw new InvalidOperationException("Connection string 'dbconn' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
